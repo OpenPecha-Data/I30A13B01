@@ -1,0 +1,114 @@
+id: 9e74ef8394444e93b5caceb146587483
+annotation_type: index
+revision: '00001'
+annotations:
+  6c9439df07ed41438236979e31cb9300:
+    base: f094F.txt
+    span:
+      start: 0
+      end: 0
+  52a6729ad160485b97c2d76697081ef7:
+    base: f0A23.txt
+    span:
+      start: 0
+      end: 0
+  fbf9412f10284276b14209e052e9fd26:
+    base: f1BCD.txt
+    span:
+      start: 0
+      end: 0
+  6d8bde8c26d24170851a6f06e0f13d9a:
+    base: f2256.txt
+    span:
+      start: 0
+      end: 0
+  e20967e3a4794b0ab0a8132c4a729b7c:
+    base: f38A3.txt
+    span:
+      start: 0
+      end: 0
+  7a726918b4a04ecc9ae9092c9a132914:
+    base: f3916.txt
+    span:
+      start: 0
+      end: 0
+  51abc78629ae473e9e68281f8f3df428:
+    base: f4442.txt
+    span:
+      start: 0
+      end: 0
+  a10d467a136f46babe2876d06ce33643:
+    base: f5B6D.txt
+    span:
+      start: 0
+      end: 0
+  92d504fbd84e4332b3a49b167d7db4dd:
+    base: f7907.txt
+    span:
+      start: 0
+      end: 6840
+  4c46d7c194c24c609912ab4452052881:
+    base: f852E.txt
+    span:
+      start: 0
+      end: 4428
+  1b8fbcd035a74efe884479f2d4c14a3d:
+    base: f87E0.txt
+    span:
+      start: 0
+      end: 0
+  19bfd37989034f3b8b46af49704e6886:
+    base: f9199.txt
+    span:
+      start: 0
+      end: 0
+  fe83fac5fada40908fcc648990adcec6:
+    base: f92C5.txt
+    span:
+      start: 0
+      end: 0
+  6260600027d64b9f9678f9c9deaa20da:
+    base: f9361.txt
+    span:
+      start: 0
+      end: 0
+  61b30a8fa1b74f0194e63c3ff46d7cc9:
+    base: fA628.txt
+    span:
+      start: 0
+      end: 0
+  13ab5bb1ae39454b9d6589bf09959d29:
+    base: fABA3.txt
+    span:
+      start: 0
+      end: 11268
+  549d335661154dfe9505e9ca9bfe3150:
+    base: fB177.txt
+    span:
+      start: 0
+      end: 0
+  4d23d374b4d4491e88aee78d2166d63c:
+    base: fD142.txt
+    span:
+      start: 0
+      end: 0
+  25e8929a997748809cf4eb5d7bf9c6dc:
+    base: fD8EF.txt
+    span:
+      start: 0
+      end: 0
+  4187ad1cdfe046aeaf234da262534b17:
+    base: fE01A.txt
+    span:
+      start: 0
+      end: 0
+  e93d5979d9e6430ea3957e33335b9fb3:
+    base: fF111.txt
+    span:
+      start: 0
+      end: 0
+  705a5f3321934041b221a95a1b61517a:
+    base: fFFC4.txt
+    span:
+      start: 0
+      end: 0
